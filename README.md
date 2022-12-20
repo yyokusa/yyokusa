@@ -1,3 +1,7 @@
+_Engineering/Developing stuff in this profile outside of my work hours._
+
+_**All contribution seen below is my personal effort to further develop my skills on things I enjoy.**_
+
 - 👋 Hi, I’m @yyokusa
 - 👀 I’m interested in the future of web and potential it holds
 - 🌱 I’m currently learning - any language to do the job at hand
